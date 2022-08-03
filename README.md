@@ -11,6 +11,7 @@ A python program which used data analysis techniques to observe trends between v
     - NumPy
     - pandas
     - matplotlib
+    - tkinter
     - scikit-learn
     - joblib
 ## Running the program
