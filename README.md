@@ -29,3 +29,4 @@ A python program which used data analysis techniques to observe trends between v
 Pull requests are welcome for adding more ML models or fixing exisiting issues. 
 
 ## License
+https://github.com/Chadlikouider/heart-disease-diagnosis-ML-models/blob/main/LICENSE
