@@ -26,7 +26,7 @@ A python program which used data analysis techniques to observe trends between v
 2. [Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
 3. [K-nearest neighbors](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 ## Desktop interface
-<img src="Heart-graphic.jpg" width="750">
+<img src="output_sample.jpg">
 ## Contributing
 
 Pull requests are welcome for adding more ML models or fixing exisiting issues. 
